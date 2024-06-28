@@ -7,6 +7,7 @@ import data from '../assets/data.json'
 import { Value } from "sass";
 import { BarChart, DoughnutChart } from "../components/Charts";
 import { BiMaleFemale } from "react-icons/bi";
+import Table from "../components/DashboardTable";
 export default function Dashboard() {
   return (
     <div className="adminContainer">
