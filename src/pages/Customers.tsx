@@ -1,6 +1,6 @@
 import AdminSidebar from "../components/AdminSidebar"
 
-
+in
 function Customers() {
   return (
     <div className="adminContainer">
